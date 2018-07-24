@@ -7,10 +7,10 @@ This is an alternative mapping node for Blender that provides node inputs for th
 ### The main mapping node
 <img src="/assets/img/screenshot-main-node.png">
 
-### The main mapping node
+### The main mapping node interior
 <img src="/assets/img/screenshot-mapping-interior.png">
 
-### The main mapping node
+### The rotate node
 <img src="/assets/img/screenshot-rotate-node.png">
 
 
